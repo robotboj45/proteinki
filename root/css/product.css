@@ -1,0 +1,29 @@
+.product-detail {
+    text-align: center;
+    padding: 20px;
+}
+
+.product-detail img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.product-price {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#addToCart {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+#addToCart:hover {
+    background-color: #45a049;
+}
